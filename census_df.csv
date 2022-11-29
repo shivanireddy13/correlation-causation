@@ -1,0 +1,441 @@
+NAME,Total Population,state,congressional district,state_fips,state_abbrev,pct_hispanic_or_latino,pct_asian,pct_american_indian_and_alaska_native,pct_black_or_african_american,pct_white,pct_native_hawaiian_and_other_pacific_islander,pct_some_other_race,pct_two_or_more_races,pct_below_poverty
+"Congressional District 10 (116th Congress), Florida",823865.0,Florida,10,12,FL,28.37,5.08,0.12,26.93,35.94,0.06,1.06,2.45,15.03
+"Congressional District 4 (116th Congress), Florida",800945.0,Florida,04,12,FL,8.51,4.47,0.25,9.16,74.39,0.04,0.4,2.77,8.67
+"Congressional District 13 (116th Congress), Florida",729991.0,Florida,13,12,FL,10.24,3.5,0.22,12.07,71.1,0.09,0.3,2.48,13.28
+"Congressional District 26 (116th Congress), Florida",768910.0,Florida,26,12,FL,70.93,1.72,0.08,10.19,16.01,0.02,0.3,0.74,15.23
+"Congressional District 22 (116th Congress), Florida",755091.0,Florida,22,12,FL,22.44,3.16,0.12,14.65,57.16,0.03,0.61,1.81,11.15
+"Congressional District 9 (116th Congress), Florida",869762.0,Florida,09,12,FL,41.61,2.92,0.2,12.11,40.86,0.06,0.43,1.81,14.8
+"Congressional District 19 (116th Congress), Florida",813477.0,Florida,19,12,FL,20.39,1.7,0.14,7.6,68.8,0.03,0.26,1.08,11.87
+"Congressional District 1 (116th Congress), Florida",771279.0,Florida,01,12,FL,6.59,2.48,0.36,13.15,73.06,0.11,0.2,4.04,12.21
+"Congressional District 7 (116th Congress), Florida",768317.0,Florida,07,12,FL,25.67,4.59,0.15,9.85,57.0,0.04,0.52,2.19,13.04
+"Congressional District 27 (116th Congress), Florida",747186.0,Florida,27,12,FL,72.44,1.89,0.04,3.79,20.73,0.02,0.3,0.8,14.4
+"Congressional District 3 (116th Congress), Georgia",735074.0,Georgia,03,13,GA,5.74,2.03,0.23,24.66,64.88,0.06,0.37,2.03,13.34
+"Congressional District 10 (116th Congress), Georgia",750524.0,Georgia,10,13,GA,5.76,2.05,0.09,25.43,64.52,0.05,0.2,1.9,15.73
+"Congressional District 4 (116th Congress), Georgia",755681.0,Georgia,04,13,GA,9.58,5.02,0.21,59.89,22.74,0.08,0.37,2.11,15.27
+"Congressional District 5 (116th Congress), Georgia",771987.0,Georgia,05,13,GA,6.48,4.3,0.16,57.36,29.01,0.04,0.47,2.18,20.06
+"Congressional District 13 (116th Congress), Georgia",759765.0,Georgia,13,13,GA,11.42,2.65,0.08,58.88,24.55,0.02,0.25,2.14,13.38
+"Congressional District 7 (116th Congress), Georgia",811492.0,Georgia,07,13,GA,19.52,14.27,0.14,19.85,43.49,0.02,0.44,2.28,9.31
+"Congressional District 2 (116th Congress), Georgia",670498.0,Georgia,02,13,GA,5.26,1.13,0.21,51.58,39.9,0.08,0.15,1.68,25.45
+"Congressional District 14 (116th Congress), Georgia",717132.0,Georgia,14,13,GA,11.71,0.94,0.21,8.77,76.05,0.02,0.19,2.11,14.24
+"Congressional District 11 (116th Congress), Georgia",765954.0,Georgia,11,13,GA,11.13,3.37,0.11,16.45,66.43,0.04,0.41,2.06,9.38
+"Congressional District 12 (116th Congress), Georgia",724066.0,Georgia,12,13,GA,6.26,1.63,0.18,34.55,54.9,0.09,0.4,2.0,20.22
+"Congressional District 1 (116th Congress), Idaho",888809.0,Idaho,01,16,ID,11.08,1.23,1.21,0.58,83.38,0.16,0.08,2.28,12.08
+"Congressional District 1 (116th Congress), Hawaii",710794.0,Hawaii,01,15,HI,8.73,48.93,0.08,2.05,15.59,7.24,0.11,17.26,7.87
+"Congressional District 2 (116th Congress), Hawaii",711300.0,Hawaii,02,15,HI,12.24,24.86,0.23,1.38,28.38,11.48,0.19,21.24,11.01
+"Congressional District 18 (116th Congress), Illinois",705247.0,Illinois,18,17,IL,2.89,2.75,0.18,3.8,88.54,0.01,0.1,1.74,9.59
+"Congressional District 2 (116th Congress), Illinois",698741.0,Illinois,02,17,IL,14.28,0.75,0.09,56.76,26.46,0.0,0.2,1.45,18.64
+"Congressional District 14 (116th Congress), Illinois",734105.0,Illinois,14,17,IL,12.25,4.51,0.05,3.13,78.21,0.02,0.13,1.69,5.46
+"Congressional District 16 (116th Congress), Illinois",694781.0,Illinois,16,17,IL,10.06,1.54,0.15,3.81,82.56,0.01,0.11,1.76,11.72
+"Congressional Districts not defined (116th Congress), Illinois",,Illinois,ZZ,17,IL,,,,,,,,,
+"Congressional District 17 (116th Congress), Illinois",681131.0,Illinois,17,17,IL,9.1,1.32,0.18,11.72,75.36,0.02,0.1,2.2,16.66
+"Congressional District 3 (116th Congress), Illinois",716449.0,Illinois,03,17,IL,32.58,4.45,0.07,4.96,56.76,0.01,0.1,1.07,10.15
+"Congressional District 4 (116th Congress), Illinois",692435.0,Illinois,04,17,IL,68.95,3.66,0.06,3.47,22.49,0.02,0.21,1.16,16.15
+"Congressional District 11 (116th Congress), Illinois",723342.0,Illinois,11,17,IL,27.86,7.94,0.1,10.9,50.87,0.02,0.13,2.18,8.93
+"Congressional District 15 (116th Congress), Illinois",691765.0,Illinois,15,17,IL,2.87,0.67,0.19,4.41,90.47,0.03,0.03,1.33,13.45
+"Congressional District 8 (116th Congress), Illinois",711775.0,Illinois,08,17,IL,28.77,13.25,0.12,4.94,50.64,0.07,0.23,1.97,8.88
+"Congressional District 2 (116th Congress), Indiana",724054.0,Indiana,02,18,IN,9.8,1.33,0.26,6.82,79.3,0.05,0.19,2.24,13.64
+"Congressional District 6 (116th Congress), Indiana",719099.0,Indiana,06,18,IN,2.84,1.58,0.14,2.6,91.01,0.02,0.19,1.62,13.86
+"Congressional District 1 (116th Congress), Indiana",714677.0,Indiana,01,18,IN,15.67,1.32,0.19,18.23,62.57,0.03,0.14,1.84,14.38
+"Congressional District 3 (116th Congress), Indiana",743000.0,Indiana,03,18,IN,6.2,2.24,0.16,5.98,83.01,0.03,0.11,2.27,11.76
+"Congressional District 4 (116th Congress), Indiana",756185.0,Indiana,04,18,IN,6.15,3.1,0.21,3.98,84.7,0.02,0.15,1.68,11.98
+"Congressional District 1 (116th Congress), Iowa",772352.0,Iowa,01,19,IA,4.12,1.62,0.35,4.05,87.8,0.17,0.16,1.75,11.2
+"Congressional District 4 (116th Congress), Iowa",755085.0,Iowa,04,19,IA,7.11,2.2,0.43,1.65,87.07,0.13,0.03,1.37,11.84
+"Congressional District 3 (116th Congress), Iowa",831497.0,Iowa,03,19,IA,6.96,3.32,0.2,4.28,83.04,0.07,0.04,2.09,9.75
+"Congressional District 3 (116th Congress), Kansas",768619.0,Kansas,03,20,KS,12.14,4.87,0.23,8.21,71.76,0.07,0.09,2.63,8.31
+"Congressional District 4 (116th Congress), Kansas",723478.0,Kansas,04,20,KS,12.53,3.31,0.68,6.6,73.39,0.04,0.09,3.36,13.03
+"Congressional District 2 (116th Congress), Kentucky",758608.0,Kentucky,02,21,KY,3.49,1.5,0.26,5.36,86.84,0.11,0.14,2.29,15.32
+"Congressional District 1 (116th Congress), Kentucky",718563.0,Kentucky,01,21,KY,3.19,0.63,0.22,6.82,87.15,0.08,0.09,1.8,18.49
+"Congressional District 3 (116th Congress), Kentucky",744534.0,Kentucky,03,21,KY,5.56,2.81,0.15,21.92,66.88,0.05,0.25,2.38,14.61
+"Congressional District 4 (116th Congress), Kentucky",758440.0,Kentucky,04,21,KY,3.38,1.25,0.1,3.39,89.81,0.03,0.08,1.97,12.29
+"Congressional District 2 (116th Congress), Louisiana",790750.0,Louisiana,02,22,LA,6.45,2.52,0.21,61.17,27.88,0.0,0.27,1.5,24.0
+"Congressional District 6 (116th Congress), Louisiana",790815.0,Louisiana,06,22,LA,4.56,2.15,0.4,23.93,66.84,0.04,0.18,1.9,12.88
+"Congressional District 3 (116th Congress), Louisiana",784883.0,Louisiana,03,22,LA,4.04,1.53,0.36,24.4,67.45,0.01,0.18,2.02,18.58
+"Congressional District 1 (116th Congress), Maine",681859.0,Maine,01,23,ME,1.83,1.54,0.31,1.7,92.67,0.02,0.09,1.85,9.36
+"Congressional District 3 (116th Congress), Florida",738669.0,Florida,03,12,FL,10.07,3.38,0.24,16.01,67.39,0.05,0.27,2.6,17.8
+"Congressional District 3 (116th Congress), California",742328.0,California,03,06,CA,30.14,11.24,0.64,5.95,46.79,0.53,0.22,4.49,14.17
+"Congressional District 21 (116th Congress), California",713144.0,California,21,06,CA,74.83,3.18,0.47,3.55,16.48,0.1,0.1,1.3,26.0
+"Congressional District 48 (116th Congress), California",723594.0,California,48,06,CA,21.3,18.49,0.21,1.22,54.89,0.33,0.32,3.23,9.17
+"Congressional District 10 (116th Congress), California",751622.0,California,10,06,CA,43.98,7.01,0.4,3.19,41.43,0.73,0.12,3.13,13.63
+"Congressional District 34 (116th Congress), California",733639.0,California,34,06,CA,62.45,19.11,0.22,4.66,11.53,0.16,0.23,1.65,23.23
+"Congressional District 52 (116th Congress), California",768293.0,California,52,06,CA,14.79,19.85,0.23,2.88,57.34,0.33,0.28,4.29,8.78
+"Congressional District 30 (116th Congress), California",767589.0,California,30,06,CA,28.81,12.75,0.14,4.66,49.8,0.11,0.44,3.28,10.11
+"Congressional District 18 (116th Congress), California",741968.0,California,18,06,CA,16.29,23.66,0.19,1.96,53.26,0.2,0.34,4.1,6.34
+"Congressional District 20 (116th Congress), California",737426.0,California,20,06,CA,53.29,5.01,0.2,1.82,36.5,0.29,0.15,2.74,13.13
+"Congressional District 42 (116th Congress), California",809051.0,California,42,06,CA,39.93,9.2,0.32,5.41,41.13,0.41,0.31,3.29,9.42
+"Congressional District 25 (116th Congress), California",714481.0,California,25,06,CA,39.74,8.45,0.36,7.62,40.69,0.1,0.19,2.85,12.16
+"Congressional District 32 (116th Congress), California",712870.0,California,32,06,CA,62.0,18.37,0.2,2.36,15.11,0.38,0.21,1.37,11.79
+"Congressional District 43 (116th Congress), California",730307.0,California,43,06,CA,47.7,12.83,0.2,21.51,14.39,0.48,0.46,2.43,16.66
+"Congressional District 35 (116th Congress), California",747555.0,California,35,06,CA,70.6,7.45,0.28,5.83,13.65,0.19,0.21,1.79,14.92
+"Congressional District 13 (116th Congress), California",759834.0,California,13,06,CA,22.16,20.67,0.33,16.49,34.36,0.54,0.41,5.05,14.79
+"Congressional District 44 (116th Congress), California",718922.0,California,44,06,CA,70.79,5.68,0.25,14.8,6.26,0.69,0.21,1.33,18.68
+"Congressional District 49 (116th Congress), California",740198.0,California,49,06,CA,26.56,6.95,0.31,2.39,59.97,0.34,0.15,3.33,7.89
+"Congressional District 5 (116th Congress), California",727130.0,California,05,06,CA,28.28,11.06,0.37,6.11,49.61,0.44,0.44,3.7,9.7
+"Congressional District 29 (116th Congress), California",720207.0,California,29,06,CA,68.08,7.62,0.11,3.61,19.01,0.09,0.29,1.19,17.54
+"Congressional District 7 (116th Congress), California",751400.0,California,07,06,CA,17.74,15.86,0.36,7.07,52.22,0.91,0.19,5.65,11.27
+"Congressional District 39 (116th Congress), California",728841.0,California,39,06,CA,34.06,31.51,0.22,2.21,29.33,0.19,0.14,2.34,8.89
+"Congressional District 50 (116th Congress), California",750181.0,California,50,06,CA,32.13,5.53,0.89,2.42,54.94,0.38,0.2,3.51,10.8
+"Congressional District 23 (116th Congress), California",743054.0,California,23,06,CA,39.94,5.14,0.62,6.13,45.15,0.15,0.17,2.71,18.0
+"Congressional District 51 (116th Congress), California",731761.0,California,51,06,CA,70.85,7.68,0.32,6.2,13.01,0.38,0.06,1.51,20.2
+"Congressional District 1 (116th Congress), California",706834.0,California,01,06,CA,13.91,2.82,1.45,1.45,76.36,0.18,0.12,3.71,16.7
+"Congressional District 40 (116th Congress), California",715562.0,California,40,06,CA,88.02,2.17,0.13,4.52,4.41,0.13,0.14,0.49,21.81
+"Congressional District 45 (116th Congress), California",779324.0,California,45,06,CA,18.59,25.15,0.14,1.67,50.27,0.16,0.18,3.85,8.94
+"Congressional District 22 (116th Congress), California",763702.0,California,22,06,CA,48.45,8.07,0.43,2.84,37.68,0.14,0.18,2.21,17.48
+"Congressional District 9 (116th Congress), California",768191.0,California,09,06,CA,38.78,14.48,0.24,8.78,33.1,0.47,0.18,3.96,14.04
+"Congressional District 27 (116th Congress), California",714769.0,California,27,06,CA,27.94,38.82,0.22,4.18,25.77,0.2,0.23,2.64,11.11
+"Congressional District 14 (116th Congress), California",753409.0,California,14,06,CA,23.48,34.18,0.13,2.68,33.77,1.32,0.43,4.0,7.09
+"Congressional District 2 (116th Congress), California",716090.0,California,02,06,CA,17.65,3.84,1.85,1.38,70.7,0.17,0.51,3.9,11.64
+"Congressional District 1 (116th Congress), Colorado",832187.0,Colorado,01,08,CO,27.32,3.41,0.43,7.78,58.24,0.12,0.15,2.55,12.06
+"Congressional District 3 (116th Congress), Colorado",744735.0,Colorado,03,08,CO,24.75,0.76,1.44,0.76,70.47,0.08,0.12,1.61,14.24
+"Congressional District 4 (116th Congress), Colorado",819625.0,Colorado,04,08,CO,22.2,2.2,0.38,1.32,71.66,0.1,0.18,1.95,8.7
+"Congressional District 2 (116th Congress), Colorado",807266.0,Colorado,02,08,CO,10.71,3.22,0.37,0.92,82.23,0.06,0.18,2.31,10.21
+"Congressional District 6 (116th Congress), Colorado",817676.0,Colorado,06,08,CO,20.3,6.19,0.4,9.18,60.42,0.2,0.27,3.05,7.41
+"Delegate District (at Large) (116th Congress), District of Columbia",692683.0,District of Columbia,98,11,DC,11.0,3.93,0.2,45.44,36.58,0.04,0.41,2.4,16.24
+"Congressional District 3 (116th Congress), Connecticut",713930.0,Connecticut,03,09,CT,16.02,4.45,0.08,13.41,63.72,0.02,0.22,2.07,11.26
+"Congressional District 4 (116th Congress), Connecticut",735686.0,Connecticut,04,09,CT,19.92,5.44,0.11,11.33,60.81,0.03,0.35,2.02,9.18
+"Congressional District 2 (116th Congress), Connecticut",702769.0,Connecticut,02,09,CT,8.62,3.39,0.26,3.64,81.27,0.02,0.17,2.64,8.29
+"Congressional District 17 (116th Congress), Florida",773684.0,Florida,17,12,FL,15.9,1.34,0.26,7.03,73.71,0.05,0.14,1.58,13.87
+"Congressional District 6 (116th Congress), Florida",767325.0,Florida,06,12,FL,12.9,1.77,0.3,10.24,72.83,0.03,0.24,1.69,13.75
+"Congressional District 5 (116th Congress), Florida",731618.0,Florida,05,12,FL,8.49,2.56,0.25,46.69,39.25,0.07,0.19,2.5,22.49
+"Congressional District 24 (116th Congress), Florida",746402.0,Florida,24,12,FL,40.38,1.2,0.15,45.88,11.15,0.04,0.42,0.78,21.66
+"Congressional District 11 (116th Congress), Florida",772901.0,Florida,11,12,FL,10.66,1.27,0.32,7.08,78.54,0.03,0.37,1.72,13.15
+"Congressional District 23 (116th Congress), Florida",760118.0,Florida,23,12,FL,38.98,4.23,0.26,13.24,40.66,0.07,0.46,2.1,10.34
+"Congressional District 8 (116th Congress), Florida",754594.0,Florida,08,12,FL,10.97,2.13,0.24,9.11,74.45,0.08,0.3,2.73,11.72
+"Congressional District 18 (116th Congress), Florida",771253.0,Florida,18,12,FL,16.68,2.34,0.21,12.57,66.17,0.06,0.27,1.7,10.76
+"Congressional District 20 (116th Congress), Florida",788175.0,Florida,20,12,FL,24.7,2.66,0.09,52.55,17.47,0.03,0.53,1.97,19.01
+"Congressional District 25 (116th Congress), Florida",771549.0,Florida,25,12,FL,75.61,1.03,0.16,3.62,19.05,0.01,0.1,0.43,16.36
+"Congressional District 2 (116th Congress), Maine",653633.0,Maine,02,23,ME,1.47,0.68,0.91,0.89,93.73,0.03,0.09,2.2,14.34
+"Congressional District 1 (116th Congress), Maryland",732773.0,Maryland,01,24,MD,4.06,2.16,0.15,11.76,79.44,0.01,0.1,2.32,9.12
+"Congressional District 3 (116th Congress), Maryland",757053.0,Maryland,03,24,MD,9.17,7.26,0.2,21.93,57.96,0.05,0.44,2.98,7.96
+"Congressional District 4 (116th Congress), Maryland",752243.0,Maryland,04,24,MD,16.82,3.05,0.13,51.62,25.7,0.04,0.36,2.29,8.01
+"Congressional District 1 (116th Congress), Alabama",710135.0,Alabama,01,01,AL,3.23,1.41,1.07,27.39,65.08,0.02,0.27,1.53,16.74
+"Congressional District 3 (116th Congress), Alabama",708888.0,Alabama,03,01,AL,3.13,1.85,0.27,25.48,67.44,0.01,0.14,1.68,17.31
+"Congressional District 5 (116th Congress), Alabama",720362.0,Alabama,05,01,AL,5.22,1.72,0.58,17.53,72.38,0.07,0.18,2.32,13.7
+"Congressional District 4 (116th Congress), Alabama",684757.0,Alabama,04,01,AL,6.61,0.54,0.64,6.98,83.37,0.05,0.07,1.74,17.36
+"Congressional District 7 (116th Congress), Alabama",667654.0,Alabama,07,01,AL,3.16,0.94,0.15,62.96,31.63,0.04,0.11,1.01,24.9
+"Congressional District 2 (116th Congress), Alabama",679684.0,Alabama,02,01,AL,3.75,1.16,0.36,31.19,61.39,0.03,0.15,1.98,17.99
+"Congressional District 6 (116th Congress), Alabama",704770.0,Alabama,06,01,AL,4.84,1.71,0.17,15.6,75.77,0.02,0.23,1.67,9.92
+"Congressional District (at Large) (116th Congress), Alaska",737068.0,Alaska,00,02,AK,7.04,6.09,14.42,3.1,60.63,1.22,0.23,7.27,10.69
+"Congressional District 1 (116th Congress), Arizona",762575.0,Arizona,01,04,AZ,23.09,1.55,22.17,2.23,48.26,0.19,0.18,2.33,19.48
+"Congressional District 3 (116th Congress), Arizona",776579.0,Arizona,03,04,AZ,62.72,1.84,3.18,4.37,26.33,0.15,0.1,1.31,20.28
+"Congressional District 5 (116th Congress), Arizona",820915.0,Arizona,05,04,AZ,18.45,4.8,0.93,3.43,69.54,0.18,0.13,2.53,8.06
+"Congressional District 4 (116th Congress), Arizona",786254.0,Arizona,04,04,AZ,19.36,1.18,1.59,1.66,73.84,0.13,0.06,2.17,12.93
+"Congressional District 7 (116th Congress), Arizona",811872.0,Arizona,07,04,AZ,63.98,2.28,2.09,9.36,20.11,0.18,0.16,1.85,26.07
+"Congressional District 2 (116th Congress), Arizona",724083.0,Arizona,02,04,AZ,28.82,3.03,0.95,3.74,60.4,0.23,0.17,2.66,14.74
+"Congressional District 6 (116th Congress), Arizona",792368.0,Arizona,06,04,AZ,17.33,4.99,1.56,2.78,70.54,0.1,0.18,2.52,10.7
+"Congressional District 8 (116th Congress), Arizona",790494.0,Arizona,08,04,AZ,20.42,3.78,0.71,4.33,67.99,0.17,0.18,2.41,8.65
+"Congressional District 3 (116th Congress), Arkansas",807399.0,Arkansas,03,05,AR,14.44,2.97,0.99,2.98,74.77,0.9,0.2,2.76,14.67
+"Congressional District 2 (116th Congress), Arkansas",762623.0,Arkansas,02,05,AR,5.24,1.64,0.31,22.58,67.81,0.06,0.19,2.16,15.55
+"Congressional District 36 (116th Congress), California",748453.0,California,36,06,CA,48.88,3.41,0.75,4.36,40.57,0.14,0.2,1.69,18.23
+"Congressional District 46 (116th Congress), California",730435.0,California,46,06,CA,66.26,13.11,0.18,1.74,17.05,0.33,0.13,1.2,15.92
+"Congressional District 33 (116th Congress), California",711557.0,California,33,06,CA,12.99,14.74,0.17,3.19,63.77,0.18,0.41,4.55,8.16
+"Congressional District 15 (116th Congress), California",779710.0,California,15,06,CA,22.15,34.49,0.28,5.35,32.19,1.04,0.22,4.3,6.07
+"Congressional District 47 (116th Congress), California",711813.0,California,47,06,CA,34.97,22.69,0.3,7.1,31.32,0.53,0.27,2.82,14.48
+"Congressional District 5 (116th Congress), Maryland",762356.0,Maryland,05,24,MD,9.33,4.07,0.32,38.06,44.33,0.03,0.24,3.62,6.67
+"Congressional District 7 (116th Congress), Maryland",718530.0,Maryland,07,24,MD,3.86,7.59,0.25,52.32,33.18,0.04,0.33,2.43,15.81
+"Congressional District 2 (116th Congress), Maryland",764509.0,Maryland,02,24,MD,7.29,5.33,0.23,34.9,48.88,0.04,0.28,3.05,10.89
+"Congressional District 6 (116th Congress), Maryland",768933.0,Maryland,06,24,MD,14.1,11.16,0.17,13.4,57.81,0.05,0.25,3.06,9.01
+"Congressional District 8 (116th Congress), Maryland",762451.0,Maryland,08,24,MD,15.45,9.19,0.15,12.09,59.48,0.04,0.57,3.03,6.47
+"Congressional District 4 (116th Congress), Massachusetts",757680.0,Massachusetts,04,25,MA,5.08,6.49,0.05,3.0,82.28,0.03,0.76,2.3,6.78
+"Congressional District 7 (116th Congress), Massachusetts",802775.0,Massachusetts,07,25,MA,22.48,10.42,0.19,23.33,40.14,0.06,0.88,2.5,18.51
+"Congressional District 2 (116th Congress), Massachusetts",748728.0,Massachusetts,02,25,MA,9.89,5.59,0.2,4.87,76.87,0.06,0.34,2.18,10.9
+"Congressional District 9 (116th Congress), Massachusetts",741094.0,Massachusetts,09,25,MA,5.6,1.41,0.22,2.86,85.89,0.02,1.76,2.24,9.04
+"Congressional District 6 (116th Congress), Massachusetts",770005.0,Massachusetts,06,25,MA,9.75,4.29,0.11,3.3,80.39,0.03,0.29,1.85,7.51
+"Congressional District 8 (116th Congress), Massachusetts",767105.0,Massachusetts,08,25,MA,5.86,8.18,0.15,9.99,72.11,0.03,1.73,1.96,8.29
+"Congressional District 1 (116th Congress), Massachusetts",728716.0,Massachusetts,01,25,MA,18.32,2.12,0.14,5.64,71.77,0.01,0.15,1.85,14.03
+"Congressional District 5 (116th Congress), Massachusetts",768212.0,Massachusetts,05,25,MA,9.2,11.88,0.09,5.06,70.27,0.02,0.98,2.5,7.53
+"Congressional District 1 (116th Congress), Michigan",698033.0,Michigan,01,26,MI,2.01,0.68,2.39,1.42,90.83,0.04,0.06,2.56,13.3
+"Congressional District 2 (116th Congress), Michigan",739228.0,Michigan,02,26,MI,9.71,2.25,0.44,6.34,78.62,0.02,0.07,2.55,11.85
+"Congressional District 14 (116th Congress), Michigan",691180.0,Michigan,14,26,MI,4.74,5.02,0.25,56.09,31.12,0.04,0.25,2.5,21.68
+"Congressional District 3 (116th Congress), Michigan",742923.0,Michigan,03,26,MI,7.5,2.09,0.25,8.04,79.12,0.01,0.08,2.92,12.47
+"Congressional District 5 (116th Congress), Michigan",676131.0,Michigan,05,26,MI,4.99,0.92,0.33,16.97,73.85,0.01,0.09,2.83,19.09
+"Congressional District 4 (116th Congress), Michigan",701512.0,Michigan,04,26,MI,3.29,1.0,0.65,1.8,91.29,0.03,0.06,1.88,14.58
+"Congressional Districts not defined (116th Congress), Michigan",,Michigan,ZZ,26,MI,,,,,,,,,
+"Congressional District 9 (116th Congress), Michigan",717778.0,Michigan,09,26,MI,2.57,4.65,0.34,13.77,75.91,0.03,0.22,2.5,11.95
+"Congressional District 12 (116th Congress), Michigan",710371.0,Michigan,12,26,MI,5.97,5.59,0.2,10.72,74.31,0.02,0.2,3.0,16.23
+"Congressional District 7 (116th Congress), Minnesota",666100.0,Minnesota,07,27,MN,4.86,0.94,2.75,1.49,88.14,0.06,0.06,1.71,10.77
+"Congressional District 6 (116th Congress), Minnesota",710595.0,Minnesota,06,27,MN,2.98,2.53,0.37,3.47,88.45,0.01,0.11,2.08,6.78
+"Congressional District 8 (116th Congress), Minnesota",666672.0,Minnesota,08,27,MN,1.84,0.77,2.44,1.05,91.55,0.02,0.04,2.27,11.56
+"Congressional District 3 (116th Congress), Minnesota",716887.0,Minnesota,03,27,MN,4.36,7.5,0.22,8.12,76.81,0.03,0.22,2.74,5.19
+"Congressional District 5 (116th Congress), Minnesota",712914.0,Minnesota,05,27,MN,9.36,6.01,0.9,16.78,62.88,0.04,0.25,3.79,14.91
+"Congressional District 10 (116th Congress), Texas",875936.0,Texas,10,48,TX,28.98,5.8,0.15,11.02,51.79,0.02,0.24,2.0,9.04
+"Congressional District 35 (116th Congress), Texas",825790.0,Texas,35,48,TX,61.93,1.79,0.15,8.54,25.8,0.02,0.18,1.58,19.48
+"Congressional District 22 (116th Congress), Texas",911440.0,Texas,22,48,TX,25.93,18.54,0.28,13.59,39.4,0.04,0.19,2.04,7.34
+"Congressional District 19 (116th Congress), Texas",727765.0,Texas,19,48,TX,37.19,1.45,0.36,5.87,53.38,0.04,0.13,1.58,16.99
+"Congressional District 3 (116th Congress), Utah",761759.0,Utah,03,49,UT,10.63,1.89,1.31,0.57,82.4,0.74,0.12,2.33,10.29
+"Congressional District 2 (116th Congress), Utah",766444.0,Utah,02,49,UT,15.59,2.65,0.97,1.26,76.03,1.19,0.2,2.11,11.73
+"Congressional District 3 (116th Congress), Virginia",739947.0,Virginia,03,51,VA,6.43,2.59,0.27,45.44,41.27,0.11,0.3,3.59,15.5
+"Congressional District 4 (116th Congress), Virginia",770323.0,Virginia,04,51,VA,5.68,1.73,0.24,40.62,48.51,0.05,0.27,2.89,14.64
+"Congressional District 2 (116th Congress), Virginia",738524.0,Virginia,02,51,VA,8.13,5.51,0.25,19.19,62.39,0.09,0.25,4.19,8.94
+"Congressional District 6 (116th Congress), Virginia",753338.0,Virginia,06,51,VA,5.57,1.81,0.21,10.94,79.01,0.04,0.2,2.21,13.71
+"Congressional District 1 (116th Congress), Washington",754006.0,Washington,01,53,WA,9.06,11.69,1.02,1.26,72.42,0.21,0.17,4.15,6.58
+"Congressional District 5 (116th Congress), Washington",714669.0,Washington,05,53,WA,6.67,2.43,1.37,1.49,83.56,0.43,0.08,3.97,14.41
+"Congressional District 2 (116th Congress), Washington",741822.0,Washington,02,53,WA,11.01,8.85,0.99,3.05,70.72,0.53,0.18,4.66,10.32
+"Congressional District 6 (116th Congress), Washington",709226.0,Washington,06,53,WA,7.68,4.07,1.74,3.45,76.55,0.51,0.11,5.89,11.09
+"Congressional District 3 (116th Congress), West Virginia",584131.0,West Virginia,03,54,WV,1.09,0.52,0.18,3.75,92.86,0.01,0.16,1.43,21.29
+"Congressional District 1 (116th Congress), Wisconsin",718226.0,Wisconsin,01,55,WI,9.89,1.98,0.32,5.5,80.32,0.03,0.21,1.76,9.37
+"Congressional District 5 (116th Congress), Wisconsin",725071.0,Wisconsin,05,55,WI,5.92,2.88,0.25,2.37,86.76,0.03,0.08,1.71,6.88
+"Congressional District 2 (116th Congress), Wisconsin",762159.0,Wisconsin,02,55,WI,6.51,4.39,0.36,4.42,81.72,0.03,0.11,2.45,11.03
+"Congressional District 16 (116th Congress), Texas",737398.0,Texas,16,48,TX,80.73,1.27,0.25,3.33,13.21,0.14,0.07,1.0,19.27
+"Congressional District 24 (116th Congress), Texas",802353.0,Texas,24,48,TX,24.5,14.31,0.32,11.87,45.93,0.25,0.3,2.52,7.88
+"Congressional District 33 (116th Congress), Texas",739374.0,Texas,33,48,TX,67.38,2.23,0.16,15.48,13.8,0.03,0.03,0.89,22.6
+"Congressional District 11 (116th Congress), Texas",772210.0,Texas,11,48,TX,38.73,1.06,0.32,3.75,54.7,0.04,0.12,1.28,12.48
+"Congressional District 15 (116th Congress), Texas",786367.0,Texas,15,48,TX,81.6,1.06,0.09,1.75,14.87,0.03,0.17,0.43,25.68
+"Congressional District 23 (116th Congress), Texas",769173.0,Texas,23,48,TX,69.42,1.54,0.35,3.36,24.12,0.05,0.13,1.04,16.97
+"Congressional District 12 (116th Congress), Texas",811608.0,Texas,12,48,TX,23.18,3.63,0.38,8.87,61.38,0.14,0.14,2.27,10.01
+"Congressional District 8 (116th Congress), Texas",858427.0,Texas,08,48,TX,22.96,3.0,0.33,8.41,63.37,0.03,0.11,1.8,10.6
+"Congressional District 34 (116th Congress), Texas",721500.0,Texas,34,48,TX,84.56,0.6,0.12,1.11,13.27,0.02,0.03,0.3,27.25
+"Congressional District 30 (116th Congress), Texas",782114.0,Texas,30,48,TX,39.42,1.79,0.15,42.08,15.03,0.02,0.15,1.36,20.62
+"Congressional District 18 (116th Congress), Texas",778625.0,Texas,18,48,TX,43.51,3.89,0.12,34.92,16.1,0.1,0.23,1.14,21.8
+"Congressional District 2 (116th Congress), Texas",794851.0,Texas,02,48,TX,31.68,7.61,0.17,12.01,46.32,0.1,0.33,1.78,10.47
+"Congressional District 20 (116th Congress), Texas",809092.0,Texas,20,48,TX,69.07,2.8,0.17,4.95,21.19,0.13,0.09,1.61,17.54
+"Congressional District 31 (116th Congress), Texas",856506.0,Texas,31,48,TX,24.63,5.3,0.19,10.9,55.41,0.22,0.16,3.19,9.19
+"Congressional District 25 (116th Congress), Texas",783085.0,Texas,25,48,TX,18.94,3.17,0.29,6.98,67.63,0.28,0.07,2.63,10.04
+"Congressional District 32 (116th Congress), Texas",774063.0,Texas,32,48,TX,26.57,8.76,0.27,13.46,48.19,0.03,0.25,2.48,10.75
+"Congressional District 21 (116th Congress), Texas",810719.0,Texas,21,48,TX,29.73,3.68,0.17,3.47,60.65,0.04,0.17,2.1,10.4
+"Congressional District 3 (116th Congress), Texas",867470.0,Texas,03,48,TX,14.78,16.28,0.33,9.57,56.36,0.07,0.24,2.37,6.32
+"Congressional District 4 (116th Congress), Texas",751164.0,Texas,04,48,TX,14.24,1.18,0.63,10.41,71.12,0.04,0.11,2.29,13.43
+"Congressional District 13 (116th Congress), Texas",710097.0,Texas,13,48,TX,27.24,2.07,0.55,5.22,62.85,0.16,0.1,1.81,14.55
+"Congressional District 26 (116th Congress), Texas",874507.0,Texas,26,48,TX,18.43,6.93,0.39,8.12,63.27,0.07,0.16,2.63,6.97
+"Congressional District 9 (116th Congress), Texas",782123.0,Texas,09,48,TX,39.22,11.74,0.12,37.12,10.38,0.04,0.27,1.11,19.06
+"Congressional District (at Large) (116th Congress), Vermont",624313.0,Vermont,00,50,VT,1.93,1.66,0.29,1.27,92.8,0.05,0.12,1.89,10.95
+"Congressional District 1 (116th Congress), Utah",762720.0,Utah,01,49,UT,12.97,1.4,0.85,1.03,81.11,0.3,0.1,2.22,9.43
+"Congressional District 4 (116th Congress), Utah",805925.0,Utah,04,49,UT,16.81,3.18,0.57,1.57,74.02,1.23,0.25,2.37,7.85
+"Congressional District 1 (116th Congress), Virginia",793627.0,Virginia,01,51,VA,10.03,3.2,0.27,16.04,66.71,0.06,0.24,3.47,6.98
+"Congressional District 10 (116th Congress), Virginia",838538.0,Virginia,10,51,VA,13.62,14.94,0.21,6.87,60.36,0.06,0.35,3.58,4.35
+"Congressional District 5 (116th Congress), Virginia",735069.0,Virginia,05,51,VA,3.85,1.82,0.19,19.2,72.44,0.03,0.12,2.35,13.68
+"Congressional District 7 (116th Congress), Virginia",785194.0,Virginia,07,51,VA,7.48,5.15,0.21,17.59,66.4,0.06,0.24,2.87,7.51
+"Congressional District 11 (116th Congress), Virginia",793878.0,Virginia,11,51,VA,18.88,18.12,0.2,12.97,45.27,0.08,0.32,4.16,6.81
+"Congressional District 9 (116th Congress), Virginia",707798.0,Virginia,09,51,VA,2.37,1.45,0.18,5.17,89.28,0.04,0.17,1.34,18.48
+"Congressional District 8 (116th Congress), Virginia",798227.0,Virginia,08,51,VA,18.94,11.36,0.13,13.99,51.57,0.06,0.34,3.61,8.06
+"Congressional District 3 (116th Congress), Washington",730720.0,Washington,03,53,WA,9.61,3.35,0.73,1.29,80.23,0.56,0.11,4.12,10.89
+"Congressional District 10 (116th Congress), Washington",747935.0,Washington,10,53,WA,11.82,6.6,1.12,6.09,65.81,1.69,0.15,6.72,11.29
+"Congressional District 4 (116th Congress), Washington",725467.0,Washington,04,53,WA,39.18,1.47,2.07,1.13,53.57,0.1,0.14,2.35,15.37
+"Congressional District 7 (116th Congress), Washington",782676.0,Washington,07,53,WA,7.88,12.5,0.42,4.39,68.63,0.4,0.19,5.58,9.42
+"Congressional District 9 (116th Congress), Washington",746443.0,Washington,09,53,WA,12.41,23.24,0.49,11.41,45.01,1.33,0.36,5.75,10.87
+"Congressional District 8 (116th Congress), Washington",751143.0,Washington,08,53,WA,11.75,9.3,0.92,2.76,69.62,0.62,0.19,4.83,8.35
+"Congressional District 1 (116th Congress), West Virginia",611109.0,West Virginia,01,54,WV,1.46,0.98,0.19,2.51,93.07,0.04,0.19,1.56,16.41
+"Congressional District 2 (116th Congress), West Virginia",622065.0,West Virginia,02,54,WV,2.1,0.85,0.22,4.6,90.09,0.01,0.18,1.93,15.19
+"Congressional District 3 (116th Congress), Wisconsin",721298.0,Wisconsin,03,55,WI,2.71,2.3,0.52,1.23,91.64,0.07,0.07,1.46,12.39
+"Congressional District 4 (116th Congress), Wisconsin",710311.0,Wisconsin,04,55,WI,17.26,4.11,0.45,33.3,41.94,0.03,0.17,2.76,22.94
+"Congressional District 7 (116th Congress), Wisconsin",709130.0,Wisconsin,07,55,WI,2.39,1.64,1.89,0.73,91.55,0.05,0.06,1.69,10.18
+"Congressional District 6 (116th Congress), Wisconsin",713539.0,Wisconsin,06,55,WI,4.62,2.49,0.43,1.77,89.0,0.04,0.05,1.59,8.93
+"Congressional District 8 (116th Congress), Wisconsin",730982.0,Wisconsin,08,55,WI,5.3,2.32,2.29,1.43,86.69,0.02,0.09,1.87,9.14
+"Resident Commissioner District (at Large) (116th Congress), Puerto Rico",3318447.0,Puerto Rico,98,72,PR,98.72,0.07,0.0,0.1,0.96,0.0,0.09,0.06,44.05
+"Congressional District 1 (116th Congress), Mississippi",762562.0,Mississippi,01,28,MS,3.35,0.82,0.18,27.72,66.43,0.02,0.13,1.36,16.27
+"Congressional District 3 (116th Congress), Mississippi",748578.0,Mississippi,03,28,MS,2.36,1.07,0.98,35.47,59.19,0.02,0.11,0.8,18.87
+"Congressional District 4 (116th Congress), Mississippi",769714.0,Mississippi,04,28,MS,4.26,1.5,0.31,23.44,68.51,0.03,0.1,1.85,19.64
+"Congressional District 2 (116th Congress), Mississippi",703564.0,Mississippi,02,28,MS,2.15,0.53,0.32,65.98,30.26,0.02,0.1,0.64,26.99
+"Congressional District 18 (116th Congress), Pennsylvania",696074.0,Pennsylvania,18,42,PA,2.5,3.91,0.08,17.7,72.56,0.02,0.19,3.03,15.29
+"Congressional District 7 (116th Congress), Pennsylvania",726011.0,Pennsylvania,07,42,PA,18.91,3.04,0.09,5.85,69.87,0.02,0.2,2.0,10.86
+"Congressional District 2 (116th Congress), Pennsylvania",737498.0,Pennsylvania,02,42,PA,25.61,7.71,0.18,25.65,38.25,0.01,0.48,2.11,24.58
+"Congressional District 17 (116th Congress), Pennsylvania",711092.0,Pennsylvania,17,42,PA,1.64,2.76,0.08,5.84,87.2,0.03,0.22,2.24,7.79
+"Congressional District 1 (116th Congress), Pennsylvania",709812.0,Pennsylvania,01,42,PA,5.41,5.93,0.14,3.97,82.65,0.02,0.16,1.72,5.76
+"Congressional District 16 (116th Congress), Pennsylvania",687946.0,Pennsylvania,16,42,PA,2.55,1.09,0.14,4.44,89.47,0.01,0.16,2.14,13.7
+"Congressional District 8 (116th Congress), Pennsylvania",694123.0,Pennsylvania,08,42,PA,11.45,1.81,0.1,5.26,79.67,0.02,0.07,1.63,13.88
+"Congressional District 10 (116th Congress), Pennsylvania",731136.0,Pennsylvania,10,42,PA,8.36,3.69,0.13,10.52,74.73,0.01,0.16,2.42,10.44
+"Congressional District 13 (116th Congress), Pennsylvania",697483.0,Pennsylvania,13,42,PA,3.31,0.62,0.1,2.64,91.58,0.01,0.1,1.65,11.8
+"Congressional District 11 (116th Congress), Pennsylvania",732060.0,Pennsylvania,11,42,PA,8.59,1.86,0.1,3.2,84.6,0.03,0.08,1.54,9.31
+"Congressional District 9 (116th Congress), Pennsylvania",705270.0,Pennsylvania,09,42,PA,6.68,1.06,0.11,2.47,88.63,0.01,0.06,0.99,10.57
+"Congressional District 4 (116th Congress), Pennsylvania",726966.0,Pennsylvania,04,42,PA,5.04,6.5,0.06,9.38,76.59,0.03,0.15,2.25,6.01
+"Congressional District 15 (116th Congress), Pennsylvania",680881.0,Pennsylvania,15,42,PA,1.49,0.69,0.08,1.92,94.68,0.02,0.06,1.07,12.87
+"Congressional District 5 (116th Congress), Pennsylvania",716440.0,Pennsylvania,05,42,PA,4.39,6.88,0.15,23.97,62.27,0.01,0.19,2.14,12.2
+"Congressional District 3 (116th Congress), Pennsylvania",722876.0,Pennsylvania,03,42,PA,4.73,5.89,0.23,56.07,30.31,0.04,0.28,2.45,24.14
+"Congressional District 7 (116th Congress), Missouri",777375.0,Missouri,07,29,MO,5.13,1.29,0.89,1.86,87.95,0.19,0.08,2.6,15.59
+"Congressional District 6 (116th Congress), Missouri",772869.0,Missouri,06,29,MO,4.07,1.35,0.34,4.17,87.42,0.14,0.08,2.44,11.16
+"Congressional District 8 (116th Congress), Missouri",738901.0,Missouri,08,29,MO,2.07,0.75,0.43,4.53,90.42,0.03,0.06,1.72,19.36
+"Congressional District 3 (116th Congress), Missouri",788763.0,Missouri,03,29,MO,2.59,1.17,0.27,3.31,90.6,0.04,0.08,1.93,9.31
+"Congressional District 4 (116th Congress), Missouri",767364.0,Missouri,04,29,MO,3.93,1.62,0.54,4.59,86.39,0.12,0.11,2.7,15.49
+"Congressional District (at Large) (116th Congress), Montana",1050649.0,Montana,00,30,MT,3.84,0.77,6.07,0.44,86.09,0.07,0.06,2.66,13.13
+"Congressional District 3 (116th Congress), Nebraska",601272.0,Nebraska,03,31,NE,11.91,0.8,0.77,1.34,83.72,0.05,0.07,1.34,11.44
+"Congressional District 1 (116th Congress), Nevada",692355.0,Nevada,01,32,NV,46.18,8.48,0.46,11.32,29.46,0.74,0.38,2.99,20.71
+"Congressional District 3 (116th Congress), Nevada",811145.0,Nevada,03,32,NV,17.91,13.57,0.4,7.21,55.4,0.64,0.47,4.41,8.5
+"Congressional District 2 (116th Congress), Nevada",716367.0,Nevada,02,32,NV,22.68,3.94,1.99,1.8,66.28,0.42,0.21,2.67,11.19
+"Congressional District 2 (116th Congress), New Hampshire",667971.0,New Hampshire,02,33,NH,3.82,2.81,0.17,1.22,89.99,0.03,0.12,1.83,7.31
+"Congressional District 1 (116th Congress), New Jersey",725599.0,New Jersey,01,34,NJ,13.7,5.21,0.07,16.22,62.21,0.02,0.31,2.26,11.05
+"Congressional District 10 (116th Congress), New Jersey",751853.0,New Jersey,10,34,NJ,20.79,7.13,0.2,49.87,19.0,0.02,1.18,1.81,17.09
+"Congressional District 5 (116th Congress), New Jersey",736353.0,New Jersey,05,34,NJ,14.05,10.48,0.15,4.79,68.85,0.02,0.16,1.5,5.2
+"Congressional District 7 (116th Congress), New Jersey",739089.0,New Jersey,07,34,NJ,12.6,10.35,0.08,4.48,70.32,0.01,0.56,1.61,4.84
+"Congressional District 9 (116th Congress), New Jersey",752451.0,New Jersey,09,34,NJ,38.12,13.28,0.1,9.07,37.65,0.02,0.37,1.39,14.05
+"Congressional District 6 (116th Congress), New Jersey",733994.0,New Jersey,06,34,NJ,22.15,18.46,0.13,9.91,47.15,0.03,0.31,1.86,9.82
+"Congressional District 12 (116th Congress), New Jersey",748655.0,New Jersey,12,34,NJ,17.92,16.9,0.13,16.72,46.11,0.01,0.48,1.72,9.53
+"Congressional District 1 (116th Congress), New Mexico",695715.0,New Mexico,01,35,NM,50.09,2.36,3.77,2.32,39.3,0.06,0.22,1.88,17.14
+"Congressional District 3 (116th Congress), New Mexico",696624.0,New Mexico,03,35,NM,40.92,1.17,17.68,1.42,36.75,0.08,0.21,1.77,18.67
+"Congressional District 2 (116th Congress), New York",711836.0,New York,02,36,NY,23.81,3.38,0.16,9.3,61.44,0.03,0.44,1.43,6.57
+"Congressional District 25 (116th Congress), New York",716736.0,New York,25,36,NY,9.03,3.7,0.18,14.94,69.69,0.02,0.2,2.25,14.61
+"Congressional District 3 (116th Congress), New York",727151.0,New York,03,36,NY,10.67,16.51,0.13,2.93,67.45,0.02,0.66,1.64,5.27
+"Congressional District 10 (116th Congress), New York",731480.0,New York,10,36,NY,12.95,18.95,0.17,3.49,61.79,0.01,0.41,2.24,15.49
+"Congressional District 13 (116th Congress), New York",767710.0,New York,13,36,NY,54.58,4.45,0.1,24.23,14.41,0.03,0.42,1.77,25.6
+"Congressional District 26 (116th Congress), New York",709541.0,New York,26,36,NY,6.74,4.23,0.34,17.71,68.38,0.04,0.12,2.45,18.29
+"Congressional District 9 (116th Congress), New York",726825.0,New York,09,36,NY,11.66,7.05,0.09,45.71,32.5,0.02,0.5,2.48,16.37
+"Congressional District 1 (116th Congress), New York",716532.0,New York,01,36,NY,15.42,3.93,0.17,5.08,73.85,0.01,0.3,1.24,7.1
+"Congressional District 7 (116th Congress), New York",730822.0,New York,07,36,NY,39.87,17.7,0.15,8.25,31.42,0.07,0.49,2.05,23.15
+"Congressional District 17 (116th Congress), New York",739314.0,New York,17,36,NY,22.3,5.88,0.12,9.71,59.92,0.01,0.33,1.73,10.14
+"Congressional District 6 (116th Congress), New York",729469.0,New York,06,36,NY,20.02,39.66,0.26,3.63,33.8,0.01,0.54,2.07,12.4
+"Congressional District 5 (116th Congress), New York",771094.0,New York,05,36,NY,19.54,14.38,0.33,47.38,10.84,0.06,4.58,2.89,11.21
+"Congressional District 16 (116th Congress), New York",744267.0,New York,16,36,NY,25.79,5.22,0.22,30.77,35.45,0.02,0.9,1.64,12.27
+"Congressional District 11 (116th Congress), New York",730637.0,New York,11,36,NY,17.31,14.43,0.11,7.06,58.93,0.05,0.23,1.88,12.81
+"Congressional District 15 (116th Congress), New York",744473.0,New York,15,36,NY,66.13,1.79,0.21,27.93,2.59,0.04,0.44,0.88,35.69
+"Congressional District 23 (116th Congress), New York",695215.0,New York,23,36,NY,3.99,2.32,0.54,2.68,88.22,0.02,0.13,2.11,15.5
+"Congressional District 8 (116th Congress), New York",772576.0,New York,08,36,NY,17.6,5.72,0.13,49.45,24.6,0.02,0.56,1.92,20.64
+"Congressional District 12 (116th Congress), New York",721821.0,New York,12,36,NY,13.69,14.17,0.12,4.62,64.54,0.04,0.39,2.43,10.06
+"Congressional District 18 (116th Congress), New York",722792.0,New York,18,36,NY,17.07,2.99,0.21,9.01,68.23,0.03,0.4,2.06,9.39
+"Congressional District 1 (116th Congress), North Carolina",755156.0,North Carolina,01,37,NC,8.89,2.05,0.64,43.61,42.24,0.06,0.23,2.29,20.64
+"Congressional District 7 (116th Congress), North Carolina",795777.0,North Carolina,07,37,NC,9.58,0.82,0.76,18.59,67.94,0.05,0.11,2.15,17.19
+"Congressional District 2 (116th Congress), North Carolina",840465.0,North Carolina,02,37,NC,9.77,1.87,0.4,18.8,66.29,0.05,0.29,2.53,9.99
+"Congressional District 6 (116th Congress), North Carolina",768774.0,North Carolina,06,37,NC,10.11,1.74,0.32,19.82,65.6,0.03,0.28,2.1,15.15
+"Congressional District 3 (116th Congress), North Carolina",756531.0,North Carolina,03,37,NC,8.01,1.51,0.34,19.78,67.23,0.07,0.11,2.95,14.9
+"Congressional District 10 (116th Congress), North Carolina",760336.0,North Carolina,10,37,NC,6.67,1.73,0.31,12.06,77.12,0.03,0.25,1.84,14.52
+"Congressional District 4 (116th Congress), North Carolina",857571.0,North Carolina,04,37,NC,10.48,8.89,0.32,22.09,55.52,0.04,0.27,2.4,11.23
+"Congressional District 5 (116th Congress), North Carolina",756559.0,North Carolina,05,37,NC,9.68,1.53,0.36,14.42,72.37,0.08,0.17,1.39,16.99
+"Congressional District 11 (116th Congress), North Carolina",758083.0,North Carolina,11,37,NC,6.27,1.15,1.46,3.13,86.12,0.07,0.18,1.63,14.53
+"Congressional District 8 (116th Congress), North Carolina",788902.0,North Carolina,08,37,NC,10.34,2.42,1.06,22.6,60.09,0.14,0.27,3.08,14.43
+"Congressional District 12 (116th Congress), North Carolina",865614.0,North Carolina,12,37,NC,15.15,5.75,0.26,36.7,39.27,0.06,0.34,2.47,13.19
+"Congressional District 1 (116th Congress), Ohio",742004.0,Ohio,01,39,OH,3.27,3.63,0.07,21.41,68.63,0.04,0.22,2.72,14.44
+"Congressional District 7 (116th Congress), Ohio",727518.0,Ohio,07,39,OH,2.45,0.63,0.12,3.99,90.69,0.01,0.11,2.01,11.87
+"Congressional District 14 (116th Congress), Ohio",716938.0,Ohio,14,39,OH,2.95,2.14,0.12,4.63,88.37,0.02,0.1,1.67,8.35
+"Congressional District 3 (116th Congress), Ohio",790144.0,Ohio,03,39,OH,7.03,4.32,0.16,33.62,50.49,0.05,0.28,4.05,21.19
+"Congressional District 10 (116th Congress), Ohio",722027.0,Ohio,10,39,OH,2.95,2.3,0.16,16.56,74.45,0.04,0.24,3.31,15.53
+"Congressional District 5 (116th Congress), Ohio",722911.0,Ohio,05,39,OH,5.38,1.34,0.12,2.87,88.32,0.06,0.15,1.77,10.06
+"Congressional District 13 (116th Congress), Ohio",708540.0,Ohio,13,39,OH,3.33,1.89,0.16,11.49,80.29,0.02,0.1,2.73,17.41
+"Congressional District 15 (116th Congress), Ohio",761678.0,Ohio,15,39,OH,2.18,2.44,0.12,4.33,88.42,0.03,0.11,2.37,11.74
+"Congressional District 9 (116th Congress), Ohio",706921.0,Ohio,09,39,OH,11.22,1.56,0.23,15.8,67.71,0.02,0.2,3.25,20.02
+"Congressional District 12 (116th Congress), Ohio",781470.0,Ohio,12,39,OH,2.46,4.57,0.14,4.71,85.1,0.01,0.24,2.77,9.15
+"Congressional District 2 (116th Congress), Oklahoma",748847.0,Oklahoma,02,40,OK,5.38,0.67,16.72,3.26,63.72,0.17,0.06,10.02,19.34
+"Congressional District 3 (116th Congress), Oklahoma",778159.0,Oklahoma,03,40,OK,10.13,1.39,5.62,3.55,73.63,0.3,0.06,5.31,15.45
+"Congressional District 4 (116th Congress), Oklahoma",786723.0,Oklahoma,04,40,OK,8.76,2.33,4.97,6.67,70.25,0.1,0.12,6.79,12.98
+"Congressional District 1 (116th Congress), Oregon",842952.0,Oregon,01,41,OR,14.76,8.09,0.41,1.72,70.47,0.36,0.14,4.06,9.44
+"Congressional District 5 (116th Congress), Oregon",828319.0,Oregon,05,41,OR,16.87,2.59,0.85,0.98,74.63,0.51,0.11,3.46,11.69
+"Congressional District 2 (116th Congress), Oregon",817793.0,Oregon,02,41,OR,13.87,1.06,1.77,0.65,79.65,0.27,0.1,2.63,14.74
+"Congressional District 2 (116th Congress), Rhode Island",523501.0,Rhode Island,02,44,RI,12.68,3.23,0.35,3.73,77.65,0.04,0.3,2.03,10.53
+"Congressional District 1 (116th Congress), South Carolina",785395.0,South Carolina,01,45,SC,6.35,1.89,0.25,18.53,70.37,0.09,0.24,2.3,9.99
+"Congressional District 4 (116th Congress), South Carolina",727293.0,South Carolina,04,45,SC,8.37,2.58,0.17,18.3,68.27,0.2,0.15,1.96,12.49
+"Congressional District 5 (116th Congress), South Carolina",717411.0,South Carolina,05,45,SC,4.55,1.33,0.39,26.35,65.15,0.03,0.22,1.98,14.54
+"Congressional District 2 (116th Congress), South Carolina",714742.0,South Carolina,02,45,SC,5.74,1.91,0.28,23.79,65.75,0.09,0.21,2.23,12.56
+"Congressional District (at Large) (116th Congress), South Dakota",870638.0,South Dakota,00,46,SD,3.79,1.44,8.43,1.97,81.96,0.05,0.07,2.29,13.14
+"Congressional District 1 (116th Congress), Tennessee",716773.0,Tennessee,01,47,TN,3.82,0.76,0.27,2.2,91.17,0.06,0.03,1.69,17.24
+"Congressional District 5 (116th Congress), Tennessee",769198.0,Tennessee,05,47,TN,9.52,3.28,0.21,24.41,59.83,0.05,0.35,2.34,14.67
+"Congressional District 7 (116th Congress), Tennessee",776612.0,Tennessee,07,47,TN,5.18,1.99,0.24,9.87,79.96,0.13,0.2,2.44,12.49
+"Congressional District 2 (116th Congress), Tennessee",746435.0,Tennessee,02,47,TN,4.18,1.63,0.22,6.03,85.77,0.04,0.16,1.97,14.12
+"Congressional District 9 (116th Congress), Tennessee",703381.0,Tennessee,09,47,TN,7.43,1.75,0.1,65.93,23.21,0.03,0.19,1.36,24.17
+"Congressional District 28 (116th Congress), Texas",750087.0,Texas,28,48,TX,78.05,1.04,0.08,3.91,15.8,0.04,0.08,1.0,23.77
+"Congressional District 1 (116th Congress), Texas",719958.0,Texas,01,48,TX,17.56,1.15,0.26,17.29,61.98,0.06,0.13,1.57,17.37
+"Congressional District 7 (116th Congress), Texas",787830.0,Texas,07,48,TX,31.43,10.86,0.25,13.61,41.35,0.03,0.38,2.08,11.54
+"Congressional District 6 (116th Congress), Texas",785330.0,Texas,06,48,TX,23.48,4.74,0.25,20.78,47.8,0.24,0.28,2.44,10.01
+"Congressional District 17 (116th Congress), Texas",771317.0,Texas,17,48,TX,25.92,4.82,0.22,12.74,54.27,0.05,0.13,1.84,17.69
+"Congressional District 36 (116th Congress), Texas",743455.0,Texas,36,48,TX,26.34,2.03,0.34,9.09,60.38,0.02,0.08,1.72,13.4
+"Congressional District (at Large) (116th Congress), Wyoming",581024.0,Wyoming,00,56,WY,9.87,0.84,2.16,0.89,84.06,0.08,0.04,2.05,10.98
+"Congressional District 14 (116th Congress), Pennsylvania",687897.0,Pennsylvania,14,42,PA,1.38,0.83,0.04,2.98,92.73,0.03,0.1,1.91,11.36
+"Congressional District 6 (116th Congress), Pennsylvania",728613.0,Pennsylvania,06,42,PA,15.31,4.31,0.09,5.67,72.63,0.02,0.13,1.84,9.65
+"Congressional District 12 (116th Congress), Pennsylvania",699352.0,Pennsylvania,12,42,PA,2.41,1.72,0.15,2.18,92.13,0.03,0.09,1.3,13.72
+"Congressional District 2 (116th Congress), Missouri",764022.0,Missouri,02,29,MO,2.78,4.52,0.12,3.88,86.64,0.03,0.18,1.84,5.16
+"Congressional District 1 (116th Congress), Missouri",727393.0,Missouri,01,29,MO,3.59,3.25,0.18,49.48,40.45,0.04,0.35,2.67,18.63
+"Congressional District 5 (116th Congress), Missouri",768223.0,Missouri,05,29,MO,9.14,1.78,0.31,21.52,63.62,0.37,0.38,2.88,15.41
+"Congressional District 1 (116th Congress), Nebraska",644886.0,Nebraska,01,31,NE,9.4,2.64,1.11,2.82,81.42,0.09,0.09,2.44,11.21
+"Congressional District 2 (116th Congress), Nebraska",668413.0,Nebraska,02,31,NE,11.38,3.52,0.38,9.52,72.36,0.04,0.16,2.65,10.72
+"Congressional District 4 (116th Congress), Nevada",752515.0,Nevada,04,32,NV,29.97,5.4,0.85,14.63,44.53,0.65,0.21,3.76,13.04
+"Congressional District 1 (116th Congress), New Hampshire",680153.0,New Hampshire,01,33,NH,3.67,2.53,0.1,1.5,90.25,0.03,0.1,1.84,7.81
+"Congressional District 3 (116th Congress), New Jersey",737334.0,New Jersey,03,34,NJ,8.51,3.66,0.05,10.42,74.57,0.04,0.22,2.53,6.66
+"Congressional District 4 (116th Congress), New Jersey",740712.0,New Jersey,04,34,NJ,10.54,4.28,0.04,6.18,77.51,0.04,0.18,1.22,8.56
+"Congressional District 2 (116th Congress), New Jersey",714910.0,New Jersey,02,34,NJ,16.42,3.75,0.26,11.69,65.56,0.02,0.09,2.19,12.08
+"Congressional District 11 (116th Congress), New Jersey",735094.0,New Jersey,11,34,NJ,11.59,10.1,0.04,3.57,72.78,0.02,0.19,1.7,4.23
+"Congressional District 8 (116th Congress), New Jersey",762459.0,New Jersey,08,34,NJ,54.48,8.82,0.09,8.64,25.33,0.05,1.11,1.47,16.32
+"Congressional District 2 (116th Congress), New Mexico",700115.0,New Mexico,02,35,NM,55.32,0.83,4.78,1.7,36.11,0.03,0.13,1.11,21.6
+"Congressional District 20 (116th Congress), New York",725988.0,New York,20,36,NY,6.52,5.07,0.13,8.63,75.68,0.03,0.66,3.27,11.28
+"Congressional District 21 (116th Congress), New York",703073.0,New York,21,36,NY,3.43,1.0,0.86,2.92,90.12,0.07,0.1,1.5,13.09
+"Congressional District 4 (116th Congress), New York",723357.0,New York,04,36,NY,21.4,6.74,0.13,14.19,55.44,0.01,0.52,1.57,6.12
+"Congressional District 22 (116th Congress), New York",696141.0,New York,22,36,NY,3.87,2.79,0.21,3.78,87.2,0.03,0.06,2.07,14.92
+"Congressional District 19 (116th Congress), New York",698759.0,New York,19,36,NY,7.8,1.61,0.12,4.19,83.95,0.02,0.24,2.07,12.62
+"Congressional District 27 (116th Congress), New York",715340.0,New York,27,36,NY,2.66,1.03,0.68,2.32,91.8,0.02,0.1,1.39,8.37
+"Congressional District 14 (116th Congress), New York",694613.0,New York,14,36,NY,49.6,16.8,0.13,9.18,22.31,0.03,0.49,1.47,14.69
+"Congressional District 24 (116th Congress), New York",704757.0,New York,24,36,NY,4.5,2.66,0.37,8.06,81.6,0.03,0.14,2.63,14.09
+"Congressional District 13 (116th Congress), North Carolina",777328.0,North Carolina,13,37,NC,7.97,3.48,0.34,21.95,63.92,0.03,0.19,2.12,15.18
+"Congressional District 9 (116th Congress), North Carolina",783780.0,North Carolina,09,37,NC,8.02,2.87,7.81,18.81,60.13,0.02,0.21,2.14,14.39
+"Congressional District (at Large) (116th Congress), North Dakota",756717.0,North Dakota,00,38,ND,3.74,1.44,5.09,2.85,84.44,0.11,0.13,2.2,10.68
+"Congressional District 2 (116th Congress), Ohio",728713.0,Ohio,02,39,OH,2.13,1.53,0.15,8.58,85.11,0.03,0.14,2.33,13.18
+"Congressional District 6 (116th Congress), Ohio",696108.0,Ohio,06,39,OH,1.18,0.44,0.15,2.17,94.28,0.01,0.08,1.69,15.42
+"Congressional District 4 (116th Congress), Ohio",710991.0,Ohio,04,39,OH,3.86,1.01,0.21,5.13,87.37,0.02,0.12,2.28,12.4
+"Congressional District 16 (116th Congress), Ohio",720291.0,Ohio,16,39,OH,2.41,2.29,0.13,2.14,91.16,0.01,0.11,1.75,7.1
+"Congressional District 11 (116th Congress), Ohio",689571.0,Ohio,11,39,OH,4.55,2.56,0.16,52.57,37.05,0.02,0.37,2.73,25.13
+"Congressional District 8 (116th Congress), Ohio",729572.0,Ohio,08,39,OH,3.55,2.06,0.14,6.02,85.5,0.05,0.09,2.58,12.0
+"Congressional District 1 (116th Congress), Oklahoma",801857.0,Oklahoma,01,40,OK,11.45,2.99,5.53,8.55,64.0,0.09,0.22,7.17,14.26
+"Congressional District 5 (116th Congress), Oklahoma",817284.0,Oklahoma,05,40,OK,16.89,3.16,4.04,13.2,56.92,0.07,0.19,5.54,16.52
+"Congressional District 3 (116th Congress), Oregon",837545.0,Oregon,03,41,OR,11.37,7.23,0.68,4.92,70.62,0.6,0.23,4.35,13.48
+"Congressional District 4 (116th Congress), Oregon",803194.0,Oregon,04,41,OR,8.02,2.42,0.92,0.76,83.52,0.16,0.16,4.04,16.7
+"Congressional District 1 (116th Congress), Rhode Island",533730.0,Rhode Island,01,44,RI,18.15,3.47,0.29,7.67,66.5,0.09,1.11,2.73,14.2
+"Congressional District 3 (116th Congress), South Carolina",693354.0,South Carolina,03,45,SC,5.13,0.92,0.19,18.11,73.62,0.02,0.12,1.88,16.4
+"Congressional District 7 (116th Congress), South Carolina",719968.0,South Carolina,07,45,SC,4.33,1.0,0.5,27.86,64.52,0.04,0.16,1.6,17.93
+"Congressional District 6 (116th Congress), South Carolina",662643.0,South Carolina,06,45,SC,5.18,1.17,0.28,55.84,35.45,0.06,0.17,1.86,24.12
+"Congressional District 4 (116th Congress), Tennessee",784717.0,Tennessee,04,47,TN,6.6,1.78,0.24,9.11,79.46,0.03,0.21,2.57,13.85
+"Congressional District 8 (116th Congress), Tennessee",708466.0,Tennessee,08,47,TN,3.3,2.11,0.24,19.93,72.38,0.02,0.17,1.84,13.39
+"Congressional District 6 (116th Congress), Tennessee",773038.0,Tennessee,06,47,TN,4.45,0.97,0.27,4.6,87.93,0.04,0.13,1.63,12.68
+"Congressional District 29 (116th Congress), Texas",745825.0,Texas,29,48,TX,78.1,1.71,0.08,10.56,8.88,0.03,0.07,0.56,23.25
+"Congressional District 27 (116th Congress), Texas",740124.0,Texas,27,48,TX,53.24,1.63,0.2,4.86,38.97,0.06,0.08,0.95,15.91
+"Congressional District 14 (116th Congress), Texas",751606.0,Texas,14,48,TX,25.41,3.08,0.25,19.24,50.34,0.03,0.1,1.55,13.93
+"Congressional District 5 (116th Congress), Texas",751567.0,Texas,05,48,TX,28.9,2.03,0.35,15.19,51.86,0.04,0.11,1.53,14.71
+"Congressional District 9 (116th Congress), Arizona",785159.0,Arizona,09,04,AZ,27.37,5.33,2.62,5.8,55.55,0.31,0.21,2.8,15.9
+"Congressional District 1 (116th Congress), Arkansas",721413.0,Arkansas,01,05,AR,3.49,0.56,0.34,17.17,75.75,0.06,0.1,2.54,18.87
+"Congressional District 4 (116th Congress), Arkansas",707935.0,Arkansas,04,05,AR,5.99,0.63,0.68,19.32,71.35,0.07,0.15,1.81,19.57
+"Congressional District 16 (116th Congress), California",731650.0,California,16,06,CA,61.52,8.72,0.48,5.24,21.98,0.15,0.13,1.8,26.23
+"Congressional District 37 (116th Congress), California",724598.0,California,37,06,CA,38.96,10.01,0.15,21.96,25.3,0.11,0.58,2.93,17.8
+"Congressional District 53 (116th Congress), California",774603.0,California,53,06,CA,34.07,13.47,0.18,7.94,39.64,0.41,0.23,4.06,11.55
+"Congressional District 31 (116th Congress), California",748362.0,California,31,06,CA,53.44,7.57,0.21,10.05,25.75,0.25,0.2,2.54,16.1
+"Congressional District 9 (116th Congress), Georgia",747416.0,Georgia,09,13,GA,13.09,1.19,0.18,6.61,77.12,0.03,0.16,1.63,13.88
+"Congressional District 6 (116th Congress), Georgia",750871.0,Georgia,06,13,GA,12.69,11.76,0.24,13.28,59.1,0.01,0.56,2.36,7.37
+"Congressional District 1 (116th Congress), Georgia",737087.0,Georgia,01,13,GA,6.83,1.78,0.33,29.37,58.83,0.13,0.26,2.46,16.53
+"Congressional District 8 (116th Congress), Georgia",706300.0,Georgia,08,13,GA,6.53,1.57,0.25,30.86,58.97,0.02,0.13,1.68,20.09
+"Congressional District 2 (116th Congress), Idaho",828941.0,Idaho,02,16,ID,14.12,1.46,1.0,0.74,80.44,0.11,0.09,2.04,14.23
+"Congressional District 1 (116th Congress), Illinois",704031.0,Illinois,01,17,IL,10.37,2.07,0.08,50.57,35.11,0.01,0.21,1.59,17.19
+"Congressional District 7 (116th Congress), Illinois",720978.0,Illinois,07,17,IL,16.0,7.29,0.09,45.33,29.24,0.02,0.23,1.81,21.11
+"Congressional District 5 (116th Congress), Illinois",740867.0,Illinois,05,17,IL,19.85,7.34,0.09,2.76,67.44,0.03,0.18,2.32,8.32
+"Congressional District 13 (116th Congress), Illinois",701843.0,Illinois,13,17,IL,3.57,4.04,0.17,11.26,78.22,0.04,0.14,2.56,18.02
+"Congressional District 6 (116th Congress), Illinois",724005.0,Illinois,06,17,IL,10.43,9.57,0.07,2.49,75.32,0.01,0.12,2.0,5.2
+"Congressional District 10 (116th Congress), Illinois",710717.0,Illinois,10,17,IL,23.11,11.08,0.16,6.63,56.8,0.02,0.21,1.99,8.86
+"Congressional District 9 (116th Congress), Illinois",724839.0,Illinois,09,17,IL,11.42,13.08,0.12,8.66,63.54,0.05,0.3,2.83,11.63
+"Congressional District 12 (116th Congress), Illinois",693580.0,Illinois,12,17,IL,3.52,1.25,0.18,16.85,75.92,0.01,0.15,2.12,16.47
+"Congressional District 9 (116th Congress), Indiana",753239.0,Indiana,09,18,IN,3.43,2.55,0.19,2.88,88.78,0.01,0.11,2.05,12.75
+"Congressional District 8 (116th Congress), Indiana",719002.0,Indiana,08,18,IN,2.53,1.04,0.13,4.28,90.0,0.06,0.07,1.88,13.77
+"Congressional District 5 (116th Congress), Indiana",775550.0,Indiana,05,18,IN,4.57,3.55,0.16,8.41,80.72,0.01,0.17,2.41,8.77
+"Congressional District 7 (116th Congress), Indiana",760897.0,Indiana,07,18,IN,11.36,3.43,0.22,29.69,52.06,0.02,0.32,2.9,20.12
+"Congressional District 3 (116th Congress), Tennessee",730736.0,Tennessee,03,47,TN,4.14,1.32,0.27,10.52,81.76,0.05,0.13,1.81,15.33
+"Congressional District 2 (116th Congress), Iowa",780574.0,Iowa,02,19,IA,5.77,2.39,0.21,4.39,85.07,0.06,0.17,1.94,13.16
+"Congressional District 1 (116th Congress), Kansas",703509.0,Kansas,01,20,KS,16.09,1.63,0.5,2.99,76.46,0.11,0.07,2.15,13.16
+"Congressional District 2 (116th Congress), Kansas",715046.0,Kansas,02,20,KS,6.79,1.69,1.26,4.57,82.25,0.04,0.09,3.31,13.69
+"Congressional District 6 (116th Congress), Kentucky",771727.0,Kentucky,06,21,KY,4.8,2.02,0.13,8.54,81.84,0.05,0.22,2.39,16.98
+"Congressional District 5 (116th Congress), Kentucky",697180.0,Kentucky,05,21,KY,1.36,0.41,0.24,1.37,95.55,0.03,0.03,1.01,27.26
+"Congressional District 4 (116th Congress), Louisiana",748317.0,Louisiana,04,22,LA,4.04,1.0,0.68,34.06,58.13,0.06,0.26,1.78,22.25
+"Congressional District 1 (116th Congress), Louisiana",805517.0,Louisiana,01,22,LA,8.93,2.27,1.05,13.76,71.78,0.02,0.22,1.99,14.42
+"Congressional District 5 (116th Congress), Louisiana",744080.0,Louisiana,05,22,LA,2.46,0.71,0.36,35.24,59.71,0.02,0.16,1.35,24.07
+"Congressional District 26 (116th Congress), California",725558.0,California,26,06,CA,45.35,6.69,0.22,1.78,43.2,0.17,0.13,2.45,9.25
+"Congressional District 19 (116th Congress), California",758819.0,California,19,06,CA,39.81,28.5,0.17,2.54,25.09,0.38,0.31,3.21,8.95
+"Congressional District 24 (116th Congress), California",735979.0,California,24,06,CA,36.39,4.63,0.44,1.82,54.09,0.1,0.14,2.39,13.15
+"Congressional District 6 (116th Congress), California",760831.0,California,06,06,CA,28.35,15.44,0.37,12.1,36.58,1.37,0.45,5.35,18.3
+"Congressional District 11 (116th Congress), California",761070.0,California,11,06,CA,27.12,14.32,0.17,7.73,45.34,0.43,0.36,4.52,9.48
+"Congressional District 8 (116th Congress), California",724105.0,California,08,06,CA,41.86,2.98,0.86,7.59,43.37,0.41,0.14,2.79,18.68
+"Congressional District 28 (116th Congress), California",712362.0,California,28,06,CA,24.54,13.47,0.2,2.79,55.35,0.11,0.39,3.17,13.22
+"Congressional District 12 (116th Congress), California",762627.0,California,12,06,CA,14.74,32.03,0.2,5.1,42.79,0.36,0.39,4.38,10.46
+"Congressional District 4 (116th Congress), California",741894.0,California,04,06,CA,13.6,5.33,0.67,1.36,75.24,0.19,0.11,3.51,8.99
+"Congressional District 41 (116th Congress), California",762664.0,California,41,06,CA,60.77,5.83,0.23,8.84,22.01,0.2,0.24,1.89,14.65
+"Congressional District 17 (116th Congress), California",779960.0,California,17,06,CA,15.92,54.88,0.22,2.43,22.45,0.47,0.24,3.4,6.11
+"Congressional District 38 (116th Congress), California",713171.0,California,38,06,CA,62.04,15.54,0.25,3.81,16.05,0.32,0.42,1.57,10.18
+"Congressional District 5 (116th Congress), Colorado",798375.0,Colorado,05,08,CO,16.26,2.51,0.39,5.58,70.92,0.31,0.24,3.79,10.23
+"Congressional District 7 (116th Congress), Colorado",790485.0,Colorado,07,08,CO,29.39,3.27,0.45,1.68,62.91,0.07,0.15,2.07,9.62
+"Congressional District (at Large) (116th Congress), Delaware",957248.0,Delaware,00,10,DE,9.23,3.83,0.3,21.67,62.31,0.03,0.25,2.38,11.75
+"Congressional District 1 (116th Congress), Connecticut",711553.0,Connecticut,01,09,CT,16.83,5.22,0.18,14.49,60.78,0.03,0.37,2.1,10.61
+"Congressional District 5 (116th Congress), Connecticut",711136.0,Connecticut,05,09,CT,18.7,3.82,0.15,6.51,68.36,0.02,0.56,1.87,10.21
+"Congressional Districts not defined (116th Congress), Connecticut",,Connecticut,ZZ,09,CT,,,,,,,,,
+"Congressional District 14 (116th Congress), Florida",788251.0,Florida,14,12,FL,30.89,4.58,0.16,16.81,44.87,0.05,0.3,2.35,16.41
+"Congressional District 16 (116th Congress), Florida",831418.0,Florida,16,12,FL,17.71,2.06,0.18,8.4,69.75,0.03,0.22,1.64,10.99
+"Congressional District 15 (116th Congress), Florida",789855.0,Florida,15,12,FL,23.16,2.97,0.28,14.04,57.06,0.07,0.46,1.96,13.73
+"Congressional District 12 (116th Congress), Florida",772330.0,Florida,12,12,FL,13.07,2.73,0.28,4.71,76.98,0.06,0.2,1.96,11.41
+"Congressional District 2 (116th Congress), Florida",722465.0,Florida,02,12,FL,6.69,1.77,0.3,12.57,76.15,0.07,0.24,2.21,15.49
+"Congressional District 21 (116th Congress), Florida",772206.0,Florida,21,12,FL,24.23,2.56,0.1,15.4,55.71,0.03,0.35,1.61,11.22
+"Congressional District 3 (116th Congress), Massachusetts",766238.0,Massachusetts,03,25,MA,19.63,8.13,0.13,3.07,66.68,0.02,0.49,1.85,10.17
+"Congressional District 7 (116th Congress), Michigan",705993.0,Michigan,07,26,MI,4.46,1.05,0.35,4.09,87.62,0.02,0.13,2.29,11.31
+"Congressional District 6 (116th Congress), Michigan",717930.0,Michigan,06,26,MI,6.23,1.55,0.32,8.06,80.48,0.03,0.14,3.18,14.2
+"Congressional District 10 (116th Congress), Michigan",718572.0,Michigan,10,26,MI,3.25,1.69,0.16,2.91,90.02,0.06,0.07,1.83,9.42
+"Congressional District 13 (116th Congress), Michigan",675497.0,Michigan,13,26,MI,7.75,1.42,0.36,54.28,33.82,0.04,0.31,2.03,29.73
+"Congressional District 11 (116th Congress), Michigan",730595.0,Michigan,11,26,MI,3.42,10.57,0.2,5.05,78.22,0.02,0.15,2.38,6.01
+"Congressional District 8 (116th Congress), Michigan",739522.0,Michigan,08,26,MI,5.21,4.73,0.21,5.44,81.63,0.02,0.1,2.67,10.85
+"Congressional District 2 (116th Congress), Minnesota",703966.0,Minnesota,02,27,MN,6.21,4.74,0.34,4.94,80.79,0.03,0.19,2.75,6.04
+"Congressional District 1 (116th Congress), Minnesota",675187.0,Minnesota,01,27,MN,6.54,2.77,0.25,3.31,85.29,0.07,0.08,1.69,10.65
+"Congressional District 4 (116th Congress), Minnesota",711057.0,Minnesota,04,27,MN,6.74,12.44,0.44,10.3,66.47,0.03,0.18,3.41,11.82
