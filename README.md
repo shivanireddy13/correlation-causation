@@ -1,6 +1,6 @@
 # Correlation and causation 
 
-Clone this repository and follow the instructions below to set up a Jupyter notebook that mixes Python3 and R. If you've already done this before, skip the brew install steps. 
+Fork this repository and follow the instructions below to set up a Jupyter notebook that mixes Python3 and R. If you've already done this before, skip the brew install steps. 
 
 ## Example Notebook
 
