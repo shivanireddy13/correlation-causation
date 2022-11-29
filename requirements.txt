@@ -1,0 +1,8 @@
+jupyter
+pandas
+rpy2
+tzlocal
+matplotlib
+plotly
+census
+us
